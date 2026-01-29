@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Tabs Exporter",
+    "description": "Export windows and tabs to a file",
+    "author": "CGC",
+    "version": "1.0.0",
+    "permissions": ["tabs", "windows", "downloads"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
