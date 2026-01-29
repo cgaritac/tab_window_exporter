@@ -111,8 +111,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Carlos Garita Campos**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Chrome Web Store: [Tabs Exporter](https://chrome.google.com/webstore)
+- GitHub: [@cgaritac](https://github.com/cgaritac)
 
 ---
 
