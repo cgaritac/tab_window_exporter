@@ -4,7 +4,7 @@ A lightweight Chrome extension that exports all your browser windows and tabs to
 
 ---
 
-## ✨ Features
+## Features
 
 - **Export all windows & tabs** — Captures every open window and every tab across your browser
 - **Plain text output** — Exports to a readable `.txt` file with titles and URLs
@@ -16,7 +16,7 @@ A lightweight Chrome extension that exports all your browser windows and tabs to
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### From Chrome Web Store (recommended)
 
@@ -37,7 +37,7 @@ A lightweight Chrome extension that exports all your browser windows and tabs to
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Click the **Tabs Exporter** icon in your Chrome toolbar
 2. In the popup, click **Export tabs**
@@ -65,7 +65,7 @@ Each window is listed with its tabs; each tab shows its **title** and **URL**.
 
 ---
 
-## 🔐 Permissions
+## Permissions
 
 | Permission   | Purpose                                                |
 |-------------|--------------------------------------------------------|
@@ -77,7 +77,7 @@ No data is sent to any server; everything runs locally in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tab_window_exporter/
@@ -94,24 +94,25 @@ tab_window_exporter/
 
 ---
 
-## 🛠 Development
+## Development
 
 - **Chrome version:** Requires a Chromium-based browser that supports Manifest V3 (e.g. Chrome 88+)
 - **Testing:** Load the extension as “Load unpacked” and use the popup to test export behavior with multiple windows/tabs
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
+## Author
 
 **Carlos Garita Campos**
 
 - Portfolio: [@cgaritac](https://cgarita.web.app/)
+- Chrome Store: [Extension Link](https://chromewebstore.google.com/detail/tabs-exporter/enfdbpbgapiebkahjidnojdmkdohcjbi?pli=1)
 
 ---
 
